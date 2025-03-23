@@ -1,2 +1,9 @@
+/* Optional: You can enhance spacing or styling here */
+body {
+  background-color: #f9f9f9;
+}
 
-/* Your CSS Code here. */
+form {
+  background-color: #ffffff;
+  border-radius: 8px;
+}
